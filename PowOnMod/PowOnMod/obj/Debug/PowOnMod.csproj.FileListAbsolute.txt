@@ -1,0 +1,8 @@
+C:\Users\franc\OneDrive\Рабочий стол\C#\PowOnMod\PowOnMod\bin\Debug\PowOnMod.exe.config
+C:\Users\franc\OneDrive\Рабочий стол\C#\PowOnMod\PowOnMod\bin\Debug\PowOnMod.exe
+C:\Users\franc\OneDrive\Рабочий стол\C#\PowOnMod\PowOnMod\bin\Debug\PowOnMod.pdb
+C:\Users\franc\OneDrive\Рабочий стол\C#\PowOnMod\PowOnMod\obj\Debug\PowOnMod.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Рабочий стол\C#\PowOnMod\PowOnMod\obj\Debug\PowOnMod.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\OneDrive\Рабочий стол\C#\PowOnMod\PowOnMod\obj\Debug\PowOnMod.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Рабочий стол\C#\PowOnMod\PowOnMod\obj\Debug\PowOnMod.exe
+C:\Users\franc\OneDrive\Рабочий стол\C#\PowOnMod\PowOnMod\obj\Debug\PowOnMod.pdb
